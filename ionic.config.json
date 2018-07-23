@@ -1,0 +1,8 @@
+{
+  "name": "Marcar_Asistencia",
+  "app_id": "4e0cc3a9",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
